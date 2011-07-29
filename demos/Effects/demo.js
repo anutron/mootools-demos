@@ -1,3 +1,11 @@
+/*
+---
+
+provides: Effects
+requires: [Core/Fx.Tween, Core/Fx.Morph, Core/DomReady]
+
+...
+*/
 
 window.addEvent('domready', function() {
 

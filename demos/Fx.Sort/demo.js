@@ -1,3 +1,11 @@
+/*
+---
+
+provides: Fx.Sort
+requires: [More/Fx.Sort, Core/Fx.Transitions, Core/DomReady]
+
+...
+*/
 
 window.addEvent('domready', function(){
 

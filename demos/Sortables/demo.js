@@ -1,4 +1,11 @@
+/*
+---
 
+provides: Sortables
+requires: [More/Sortables, Core/DomReady, More/Color]
+
+...
+*/
 window.addEvent('domready', function(){
 
 	var example1 = $('example1'),

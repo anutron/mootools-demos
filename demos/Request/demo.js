@@ -1,4 +1,11 @@
+/*
+---
 
+provides: Request
+requires: [Core/Request, Core/DomReady]
+
+...
+*/
 window.addEvent('domready', function(){
 
 	var result = $('result');

@@ -1,3 +1,11 @@
+/*
+---
+
+provides: Transitions
+requires: [Core/Fx.Morph, Core/Fx.Transitions, Core/DomReady, Core/Element.Dimensions]
+
+...
+*/
 
 window.addEvent('domready', function(){
 

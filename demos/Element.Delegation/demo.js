@@ -1,3 +1,11 @@
+/*
+---
+
+provides: Element.Delegation
+requires: [Core/Fx.Tween, Core/DomReady, More/Element.Delegation]
+
+...
+*/
 
 window.addEvent('domready', function() {
 

@@ -1,3 +1,11 @@
+/*
+---
+
+provides: Fx.Slide
+requires: [More/Fx.Slide, Core/DomReady]
+
+...
+*/
 
 window.addEvent('domready', function() {
 

@@ -1,3 +1,11 @@
+/*
+---
+
+provides: MouseWheel
+requires: [Core/DomReady, Core/Element.Style]
+
+...
+*/
 
 window.addEvent('domready', function(){
 

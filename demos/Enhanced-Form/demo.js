@@ -1,3 +1,11 @@
+/*
+---
+
+provides: Enhanced-Form
+requires: [More/OverText, More/Form.Validator.Inline, More/Form.Request, Core/DomReady]
+
+...
+*/
 
 window.addEvent('domready', function(){
 

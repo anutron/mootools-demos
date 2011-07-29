@@ -1,3 +1,11 @@
+/*
+---
+
+provides: Chaining
+requires: [Core/Fx.Morph, Core/Fx.Transitions, Core/DomReady]
+
+...
+*/
 
 window.addEvent('domready', function(){
 

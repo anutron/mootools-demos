@@ -1,3 +1,11 @@
+/*
+---
+
+provides: Native
+requires: [More/Element.Measure, Core/Fx.Tween, Core/DomReady]
+
+...
+*/
 
 // We add the "equalize" and "setRandom" methods to Elements
 Elements.implement({

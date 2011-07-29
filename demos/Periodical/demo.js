@@ -1,3 +1,11 @@
+/*
+---
+
+provides: Periodical
+requires: [Core/Fx.Tween, Core/DomReady]
+
+...
+*/
 
 window.addEvent('domready', function(){
 

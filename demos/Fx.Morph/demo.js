@@ -1,3 +1,11 @@
+/*
+---
+
+provides: Fx.Morph
+requires: [Core/Fx.Morph, Core/DomReady]
+
+...
+*/
 
 window.addEvent('domready', function(){
 

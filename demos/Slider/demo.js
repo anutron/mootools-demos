@@ -1,3 +1,11 @@
+/*
+---
+
+provides: Slider
+requires: [More/Slider, Core/DomReady, More/Color]
+
+...
+*/
 
 window.addEvent('domready', function(){
 

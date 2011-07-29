@@ -1,3 +1,11 @@
+/*
+---
+
+provides: MouseEnter
+requires: [Core/Fx.Morph, Core/Fx.Tween, Core/Fx.Transitions, Core/DomReady]
+
+...
+*/
 
 window.addEvent('domready', function(){
 

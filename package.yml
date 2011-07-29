@@ -1,0 +1,39 @@
+name: "MooTools-Demos"
+web: "[mootools.net](http://mootools.net)"
+ 
+description: "Demos for MooTools, The JavaScript framework"
+ 
+license: "[MIT License](http://mootools.net/license.txt)"
+ 
+copyright: "&copy; [MooTools](http://mootools.net)"
+ 
+authors: "[The MooTools development team](http://mootools.net/developers)"
+
+version: "dev"
+ 
+sources:
+  - "demos/Accordion/demo.js"
+  - "demos/Chaining/demo.js"
+  - "demos/Drag.Cart/demo.js"
+  - "demos/Drag.Drop/demo.js"
+  - "demos/Drag.Move/demo.js"
+  - "demos/Drag.Scroll/demo.js"
+  - "demos/Effects/demo.js"
+  - "demos/Element.Delegation/demo.js"
+  - "demos/Element.Event/demo.js"
+  - "demos/Element.Event.Pseudos/demo.js"
+  - "demos/Enhanced-Form/demo.js"
+  - "demos/Fx.Morph/demo.js"
+  - "demos/Fx.Slide/demo.js"
+  - "demos/MouseEnter/demo.js"
+  - "demos/MouseWheel/demo.js"
+  - "demos/Native/demo.js"
+  - "demos/Periodical/demo.js"
+  - "demos/Request/demo.js"
+  - "demos/Request.HTML/demo.js"
+  - "demos/Request.JSON/demo.js"
+  - "demos/Slick.Finder/demo.js"
+  - "demos/Slider/demo.js"
+  - "demos/Sortables/demo.js"
+  - "demos/Transitions/demo.js"
+  - "demos/Fx.Sort/demo.js"

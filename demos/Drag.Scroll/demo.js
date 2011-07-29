@@ -1,3 +1,11 @@
+/*
+---
+
+provides: Drag.Scroll
+requires: [More/Drag, Core/Fx.Transitions, More/Fx.Scroll, Core/DomReady]
+
+...
+*/
 
 (function(){
 

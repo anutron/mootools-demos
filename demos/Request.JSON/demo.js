@@ -1,3 +1,11 @@
+/*
+---
+
+provides: Request.JSON
+requires: [Core/Request.JSON, Core/DomReady]
+
+...
+*/
 
 // This is our JSON data which the server will return
 // We will send this data to the server which our demo runner and jsfiddle will return

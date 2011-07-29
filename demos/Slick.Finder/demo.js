@@ -1,3 +1,11 @@
+/*
+---
+
+provides: Slick.Finder
+requires: [Core/Fx.Tween, Core/DomReady]
+
+...
+*/
 
 window.addEvent('domready', function(){
 

@@ -1,3 +1,11 @@
+/*
+---
+
+provides: Element.Event
+requires: [Core/Fx.Morph, Core/DomReady]
+
+...
+*/
 
 window.addEvent('domready', function() {
 	var textarea = $('myTextarea'), log = $('log');

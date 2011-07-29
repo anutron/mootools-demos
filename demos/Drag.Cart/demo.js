@@ -1,3 +1,11 @@
+/*
+---
+
+provides: Drag.Cart
+requires: [More/Drag.Move, Core/Fx.Tween, Core/DomReady]
+
+...
+*/
 
 window.addEvent('domready', function(){
 

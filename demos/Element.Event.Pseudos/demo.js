@@ -1,3 +1,11 @@
+/*
+---
+
+provides: Element.Event.Pseudos
+requires: [Core/Fx.Tween, More/Chain.Wait, More/Element.Delegation, More/Element.Event.Pseudos, More/Element.Event.Pseudos.Keys, Core/DomReady]
+
+...
+*/
 
 window.addEvent('domready', function() {
 

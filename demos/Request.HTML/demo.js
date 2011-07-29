@@ -1,4 +1,11 @@
+/*
+---
 
+provides: Request.HTML
+requires: [Core/Request.HTML, Core/DomReady]
+
+...
+*/
 
 window.addEvent('domready', function(){
 

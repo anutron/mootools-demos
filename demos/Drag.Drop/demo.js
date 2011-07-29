@@ -1,3 +1,11 @@
+/*
+---
+
+provides: Drag.Drop
+requires: [More/Drag.Move, Core/Fx.Morph, Core/DomReady]
+
+...
+*/
 
 window.addEvent('domready', function(){
 
